@@ -191,4 +191,4 @@ Argha rolled a 3 and moved from 17 to 20
 Ritwick rolled a 1 and moved from 99 to 100  
 Ritwick wins the game  
 
-@MIT
+License MIT
